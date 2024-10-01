@@ -20,8 +20,8 @@ switch($page){
         include("vue/equipes.php");
         break;
 
-    case 'circuit':
-        include("vue/circuit.php");
+    case 'circuits':
+        include("vue/circuits.php");
         break;
 
     default:

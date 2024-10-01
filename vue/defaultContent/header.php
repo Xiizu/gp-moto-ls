@@ -15,6 +15,9 @@
             <img id="logo" src="../img/moto-gp-logo.webp">
             <nav>
                 <a href="?page=accueil">Accueil</a>
+                <a href="?page=pilotes">Pilotes</a>
+                <a href="?page=courses">Courses</a>
+                <a href="?page=equipes">Equipes</a>
                 <a href="?page=circuits">Circuits</a>
             </nav>
         </div>
