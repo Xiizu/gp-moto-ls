@@ -24,7 +24,7 @@ function select($info="*", $condition="True"){
     }
     catch (PDOException $e) {
     echo "Erreur lors de la récupération des données : " . $e->getMessage();
-}
+}}
 
 
 
